@@ -1,0 +1,2 @@
+2020-10-03 00:28:17.851  WARN 4238 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-03 00:28:25.636  WARN 4238 --- [http-nio-8080-exec-1] org.slf4j.LoggerFactory                  : Method :getAllStudentData
